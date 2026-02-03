@@ -3,3 +3,5 @@ venv
 *.csv
 .ipynb_checkpoints
 *.zip
+raw_graph.txt
+*.gz
